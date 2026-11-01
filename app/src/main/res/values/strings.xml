@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">App Fitness</string>
+    <string-array name="opcions_genere">
+        <item>Home</item>
+        <item>Dona</item>
+        <item>Prefereixo no dir-ho</item>
+
+    </string-array>
+</resources>
